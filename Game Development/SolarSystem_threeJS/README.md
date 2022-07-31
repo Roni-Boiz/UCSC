@@ -8,5 +8,5 @@
 4. Type and execute `npm install three` to install threeJS modules.
 5. Type and execute `npm install dat.gui` to install and enable gui modules.
 6. Finally to compile and run the project type and execute `npm run dev` or `npm run start`.
-7. Ctrl + Click the link in the treminal to view the content rendered on the web page. (copy paste the link in your favorite browser)  
-
+7. Following command will create or update *dist* folder according to files in our **src folder** and also create *.parcel-cache* folder.
+8. To view the content `Ctrl + Click the link` available in the treminal to view the content rendered on the web page. (copy paste the link in your favorite browser)
